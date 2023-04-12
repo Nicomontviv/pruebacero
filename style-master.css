@@ -59,7 +59,7 @@ html {
   height: fit-content;
   width: 100%;
   max-width: 100%;
-   object-fit: contain;
+  object-fit: scale-down;
 }
 .img2-blakensen-wide{
   display: none;
